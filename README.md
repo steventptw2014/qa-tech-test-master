@@ -21,4 +21,5 @@ If you are new to docker please read the docker docs in order to understand how 
 - Visit `localhost:3000` in a browser
 
 ### To run the SeleniumJavaFramework
-Run Start in the folder `/src/test/e2e/seleniumJavaFramework`
+- Goto `/src/test/e2e/seleniumJavaFramework`
+- Run `java -jar target/SeleniumJavaFramework-0.0.1-SNAPSHOT.jar testng.xml`
