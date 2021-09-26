@@ -2,6 +2,7 @@ commonComponents/PropertiesOperations.class
 testBase/BrowserFactory.class
 testBase/DriverFactory.class
 pageObjects/IntroPageObjects.class
+tests/TestChallenge.class
 testBase/TestBase.class
 pageObjects/ArraysChallengePageObjects.class
 commonComponents/CommonUtities.class

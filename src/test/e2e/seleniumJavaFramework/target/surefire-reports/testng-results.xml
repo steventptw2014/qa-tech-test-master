@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-26T00:16:13 BST" name="tests.TestChallenge" finished-at="2021-09-26T00:16:24 BST" duration-ms="10768">
+  <suite started-at="2021-09-26T01:27:00 BST" name="tests.TestChallenge" finished-at="2021-09-26T01:27:12 BST" duration-ms="11394">
     <groups>
     </groups>
-    <test started-at="2021-09-26T00:16:13 BST" name="Command line test" finished-at="2021-09-26T00:16:24 BST" duration-ms="10768">
+    <test started-at="2021-09-26T01:27:00 BST" name="Command line test" finished-at="2021-09-26T01:27:12 BST" duration-ms="11394">
       <class name="tests.TestChallenge">
-        <test-method is-config="true" signature="LaunchChallenage()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:13 BST" name="LaunchChallenage" finished-at="2021-09-26T00:16:16 BST" duration-ms="2676" status="PASS">
+        <test-method is-config="true" signature="LaunchChallenage()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:00 BST" name="LaunchChallenage" finished-at="2021-09-26T01:27:03 BST" duration-ms="3145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchChallenage -->
-        <test-method signature="ArraysChallenge()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:16 BST" name="ArraysChallenge" finished-at="2021-09-26T00:16:21 BST" duration-ms="5622" status="PASS">
+        <test-method signature="ArraysChallenge()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:03 BST" name="ArraysChallenge" finished-at="2021-09-26T01:27:09 BST" duration-ms="5748" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ArraysChallenge -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:21 BST" name="tearDown" finished-at="2021-09-26T00:16:21 BST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:09 BST" name="tearDown" finished-at="2021-09-26T01:27:09 BST" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="LaunchChallenage()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:21 BST" name="LaunchChallenage" finished-at="2021-09-26T00:16:24 BST" duration-ms="2220" status="PASS">
+        <test-method is-config="true" signature="LaunchChallenage()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:09 BST" name="LaunchChallenage" finished-at="2021-09-26T01:27:12 BST" duration-ms="2236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchChallenage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:24 BST" name="tearDown" finished-at="2021-09-26T00:16:24 BST" duration-ms="119" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:12 BST" name="tearDown" finished-at="2021-09-26T01:27:12 BST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="DemoTest()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T00:16:24 BST" name="DemoTest" finished-at="2021-09-26T00:16:24 BST" duration-ms="0" status="PASS">
+        <test-method signature="DemoTest()[pri:0, instance:tests.TestChallenge@436e852b]" started-at="2021-09-26T01:27:12 BST" name="DemoTest" finished-at="2021-09-26T01:27:12 BST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DemoTest -->
